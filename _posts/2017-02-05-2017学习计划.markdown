@@ -8,6 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - 学习
+    - iOS
 ---
 
 简单地列了以下iOS开发必备的技能。给目前的自己定位在**进阶**段位，在此立下Flag，新的一年在技术的小路上走的更远。

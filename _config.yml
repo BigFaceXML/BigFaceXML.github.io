@@ -88,6 +88,6 @@ service-worker: true
 
 
 # Friends
-friends: [
+# friends: [
     
-]
+# ]
