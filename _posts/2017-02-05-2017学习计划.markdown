@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2017 学习计划"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"又到了立Flag的时候了\""
 date:       2017-02-05 12:00:00
 author:     "bigfacexml"
 header-img: "img/post-bg-2015.jpg"
@@ -10,15 +10,17 @@ tags:
     - 学习
 ---
 
-## OC基础
+简单地列了以下iOS开发必备的技能。给目前的自己定位在**进阶**段位，在此立下Flag，新的一年在技术的小路上走的更远。
+
+# OC基础
 * 《Effective OC 2.0》已看完
 
-## iOS开发基础
+# iOS开发基础
 * APP与对象生命周期
 * UI控件
 * 界面布局
 
-## iOS开发进阶
+# iOS开发进阶
 * 动画效果：UIView动画、Core Animation、第三方动画库pop
 * 多线程：NSThread、GCD、NSOperationQueue
 * 数据处理：Model XML解析 JSON解析
@@ -26,19 +28,19 @@ tags:
 * 单元测试
 * Debug调试：断点，lldb调试基本命令，NSZoombieEnabled
 
-## iOS高级开发
+# iOS高级开发
 * iOS架构：MVC、MVVM、设计模式
 * 第三方框架：AFNetworking、SDWebImage、MBProgressHUD、ASIHttprequest
 
-## 开发效率
-* 插件
+# 开发效率
+* 插件（有必要多了解下插件和其他提高工作效率的方法）
 
 
-## 重点提高
-* 动画效果：掌握动画的原理，能够实现一些特殊的动画效果
-* 多线程：了解多线程的使用，对代码里的线程切换要有清晰的认识
-* 调试：熟悉单元测试基本用例，掌握debug常用命令，crash实战分析
-* 设计模式：看书学习，为以后的上传组件打基础
-* 网络：TCP原理，SOCKET使用，以及各种网络策略（缓存、备用IP等等）
+# 重点提高
+* 动画效果：掌握动画的原理，能够实现一些特殊的动画效果。[CoreAnimation文档](!https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
+* 多线程：了解iOS开发中多线程的原理与使用，对代码里的线程切换要有清晰的认识。阅读书籍：**iOS与OS X多线程和内存管理**
+* 调试：熟悉单元测试基本用例，掌握debug常用命令，crash实战分析。阅读组内wiki、KM文章等。
+* 设计模式：看书学习，为以后的上传组件打基础。阅读书籍：iOS设计模式与解析
+* 网络：TCP原理，SOCKET使用，以及各种网络策略（缓存、备用IP等等）。学习上传组件的代码，阅读KM相关文章。
 
 
