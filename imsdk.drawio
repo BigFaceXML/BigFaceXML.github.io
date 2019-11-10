@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-10T12:03:39.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="QYeoTersv2LvVKXeiZAC" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-10T12:07:46.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="eBjY9gbRESH6MHzJJLvP" version="12.2.3" type="github" pages="1">
   <diagram id="c0NUUx905rl7YYBqa5l2" name="Page-1">
     <mxGraphModel dx="2066" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -321,6 +321,12 @@
         </mxCell>
         <mxCell id="lAbQS1DIYK83FeChOZU8-125" value="启动登录流程" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="677" y="720" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="lAbQS1DIYK83FeChOZU8-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lAbQS1DIYK83FeChOZU8-127" target="lAbQS1DIYK83FeChOZU8-91">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="lAbQS1DIYK83FeChOZU8-127" value="用户掉线&lt;br&gt;被踢下线 / 网络断开" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1180" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
